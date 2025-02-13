@@ -1,0 +1,51 @@
+.holder .container {
+  text-align: center;
+}
+.holder .container .header {
+  margin-top: 50px;
+}
+.holder .container .clue {
+  margin-top: 40px;
+  font-weight: 700;
+  font-size: 20px;
+}
+.holder .container .wordlength {
+  margin-top: 40px;
+  font-weight: 700;
+  font-size: 20px;
+}
+.holder .container .inputholder {
+  margin-top: 40px;
+}
+.holder .container .inputholder #guess {
+  border: none;
+  width: 80px;
+  height: 30px;
+  background-color: black;
+  color: white;
+  font-weight: 700;
+}
+.holder .container .score {
+  margin-top: 40px;
+  color: green;
+  font-weight: 600;
+  font-size: 20px;
+}
+.holder .container .yourscore {
+  margin-top: 30px;
+  font-weight: 600;
+}
+.holder .container .refresh {
+  margin-top: 40px;
+  border: none;
+  background-color: black;
+  color: white;
+  height: 40px;
+  width: 80px;
+  border-radius: 10%;
+}
+.holder .container .beforeguess {
+  margin-top: 40px;
+  color: red;
+  font-size: 25px;
+}/*# sourceMappingURL=style.css.map */

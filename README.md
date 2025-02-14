@@ -1,4 +1,4 @@
-<h1>WORD GUESSİNG GAME</h1>
+<h1>WORD GUESSING GAME</h1>
 
 <p>Word Guessing Game is a simple word guessing game where players try to guess a randomly chosen word based on a given clue. The player earns points by correctly guessing the word. After five incorrect guesses, the game ends.</p>
 

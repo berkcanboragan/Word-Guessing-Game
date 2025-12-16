@@ -20,3 +20,9 @@
   <li>JavaScript</li>
   <li>Bootstrap</li>
 </ul>
+
+<h3>Notes</h3>
+<ul>
+  <li>All logic is handled with pure JavaScript.</li>
+  <li>Designed for learning and practicing DOM manipulation and game logic.</li>
+</ul>
